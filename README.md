@@ -1,1 +1,4 @@
 # SQL
+
+### Objectives
+#### Data Modeling
