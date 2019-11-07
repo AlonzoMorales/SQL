@@ -25,4 +25,6 @@ Once database is complete, do the following using SLQ queries:
 * Import the SQL database into Pandas.
 * Create a bar chart of average salary by title.
 
+![salary](average_salary.png)
+
 ![ERD](ERD_employee_db.png)
