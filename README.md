@@ -21,4 +21,8 @@ Once database is complete, do the following using SLQ queries:
 * List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
 * In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
 
+#### SQLAlchemy
+* Import the SQL database into Pandas.
+* Create a bar chart of average salary by title.
+
 ![ERD](ERD_employee_db.png)
